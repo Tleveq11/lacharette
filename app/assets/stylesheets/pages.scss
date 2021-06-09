@@ -190,7 +190,7 @@ textarea {
 @import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
 
 body{
-  background: black;
+  background: #81ecec;
 }
 
 .info {
@@ -211,5 +211,16 @@ svg{
   overflow: hidden;
   margin: 0 auto;
   background: black;
+}
+
+///// footer////
+
+
+.footer {
+  align-items: ;
+  justify-content: space-between;
+  height: 10px;
+  padding: 0px 50px;
+  color: black;
 }
 
