@@ -1,11 +1,12 @@
 class PagesController < ApplicationController
-  def home
+
+  def services
   end
 
-  def team
+  def equipe
   end
 
-  def work
+  def realisations
   end
 
   def contact
